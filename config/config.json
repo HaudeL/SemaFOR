@@ -1,0 +1,9 @@
+{
+  "SemaFOR": {
+    "username": "root",
+    "password": null,
+    "database": "semafor",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
